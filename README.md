@@ -1,4 +1,4 @@
-# doctor_app1
+# doctor_app
 
 A new Flutter project.
 
